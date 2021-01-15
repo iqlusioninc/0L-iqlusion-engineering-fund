@@ -19,4 +19,4 @@ Of particular interest to us is developing an engineering program to connect 0L 
 
 Funds donated to the iqlusion Engineering program will be used to establish and compensate community members engaged in engineering work both original work, maintenance and review of the code. 
 
-The Address of the iqlusion tip jar is xxxx
+The Address of the iqlusion on-chain program is C906F67F626683B77145D1F20C1A753B
