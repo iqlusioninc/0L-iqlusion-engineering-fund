@@ -15,8 +15,7 @@ We intend to establish a mature engineering program around 0L with design docume
 
 Of particular interest to us is developing an engineering program to connect 0L to the Internet of Blockchains via support for Ethereum and IBC interoperability.
 
-## The Tip Jar
-
+## The Onchain program
 
 Funds donated to the iqlusion Engineering program will be used to establish and compensate community members engaged in engineering work both original work, maintenance and review of the code. 
 
