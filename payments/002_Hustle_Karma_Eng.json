@@ -1,4 +1,4 @@
-{{
+{
     "transaction":"b3ce1954d6490f5565986352ac188aa96fad95d3bc8e9ec72c9b0ce473b0bfd7",
     "type":1,
     "details":
@@ -15,4 +15,4 @@
                 }
             ]
         }
-    }} 
+    } 
