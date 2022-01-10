@@ -1,0 +1,18 @@
+{
+    "transaction":"b3ce1954d6490f5565986352ac188aa96fad95d3bc8e9ec72c9b0ce473b0bfd7",
+    "type":1,
+    "details":
+        {
+        "memo": "Karma Hustle bounty for completing a Carpe UI mission, specifically addition of back button to interface",
+        "missions":
+            [
+                {
+                    "recordURL":"https://airtable.com/shrCuXWvrZgHkspk7/tblixhNzkEaKt3a75/viwlz7S2kmgCkoHFS/rectB5WrkO4OJuhQ0",
+                    "author":"otto",
+                    "worker":"_jt_#9661",
+                    "reviewer":"zmanian | iqlusion#3977",
+                    "artifacts":["https://github.com/OLSF/carpe/pull/46"]
+                }
+            ]
+        }
+    } 
